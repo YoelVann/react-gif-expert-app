@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App Deployed with GitHub Pages, visit:
+
+https://yoelvann.github.io/react-gif-expert-app/
+
 ## Available Scripts
 
 In the project directory, you can run:
