@@ -21,6 +21,7 @@ export const AddCategory = ({setCategories}) => {
         <h1>{inputValue}</h1>
         <input 
             type="text"
+            placeholder="Escribe una categoría Ej: 'Black Clover' y presiona Enter"
             value={inputValue}
             onChange={handleInputChange}
         />
